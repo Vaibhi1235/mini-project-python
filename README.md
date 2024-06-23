@@ -1,1 +1,4 @@
-ola and hotel two mini project upload with using def function and whn user will give input it will show ride charges and hotelbill 
+Two mini project upload - ola and hotel 
+using fuctions for above project create diffrent function 
+in which user will give their input to book ola and food menu
+so automatically it will give user their total cost for their input by using python code using function
